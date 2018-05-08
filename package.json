@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap3-basekit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stvnrlnd/bootstrap3-basekit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stvnrlnd/bootstrap3-basekit/issues"
+  },
+  "homepage": "https://github.com/stvnrlnd/bootstrap3-basekit#readme"
+}
