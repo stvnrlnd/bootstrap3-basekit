@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap3-basekit",
+  "homepage": "https://github.com/stvnrlnd/bootstrap3-basekit",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7"
+  }
+}
