@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/stvnrlnd/bootstrap3-basekit/issues"
   },
-  "homepage": "https://github.com/stvnrlnd/bootstrap3-basekit#readme"
+  "homepage": "https://github.com/stvnrlnd/bootstrap3-basekit#readme",
+  "dependencies": {}
 }
